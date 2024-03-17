@@ -31,10 +31,10 @@ To deploy this quiz app to your Salesforce environment, follow these steps:
 ## Usage
 Once installed and configured, users can access the quiz app from their Salesforce interface. Follow these steps to use the quiz app:
 
--Navigate to the Lightning page or app where you added the QuizApp component. <br>
--Answer each of the three quiz questions by selecting the correct option.<br>
--Click the "Submit" button to submit your answers.<br>
--View your results to see how many questions you answered correctly.
+- Navigate to the Lightning page or app where you added the QuizApp component. 
+- Answer each of the three quiz questions by selecting the correct option.
+- Click the "Submit" button to submit your answers.
+- View your results to see how many questions you answered correctly.
 
 ## Contributing
 Contributions are welcome! If you'd like to improve this quiz app or add new features, feel free to fork this repository, make your changes, and submit a pull request.
